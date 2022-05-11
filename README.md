@@ -6,9 +6,15 @@ Project focused on the creation of a tool for the ***management*** of ***devices
 </p>
 
 ## Planning :calendar:
-| ****** | Descripción |
-| --- | --- |
-| :heavy_check_mark: | Enumera todos los archivos nuevos o modificados |
-| git diff | Muestra las diferencias de archivo que no han sido preparadas |
-| git status | Enumera todos los archivos nuevos o modificados |
-|<ul><li>- [x] item1</li><li>- [ ] item2</li></ul> works git diff | Muestra las diferencias de archivo que no han sido preparadas |
+*Finished* -> :heavy_check_mark:
+
+*Not finished* -> :x:
+
+*In progress* -> :hourglass_flowing_sand:
+| :white_check_mark: | DATE | TASKS|
+| --- | --- | --- |
+| :heavy_check_mark: | 10/05/2022 | Create repository on Github to store everything related to the project |
+| :hourglass_flowing_sand: | 10/05/2022 - 11/05/2022 | Establish the idea (theme) of the project |
+| :hourglass_flowing_sand: | 10/05/2022 - 11/05/2022 | Create the necessary database schemas |
+| :x: | | Read documentation about KeyCloak and install it |
+| :x: | | Make de Use Cases of the application |
