@@ -18,6 +18,7 @@ Project focused on the creation of a tool for the ***management*** of ***malware
 | :heavy_check_mark: | ~~10/05/2022 - 12/05/2022~~ | ~~Create the necessary database schemas~~ | [ERModel](diagrams/E_R_model.drawio.svg):open_file_folder: [RelationalModel](diagrams/Relational_model.drawio.svg):open_file_folder: |
 | :heavy_check_mark: | ~~12/05/2022~~ | ~~Create Diagram of the Entity Relationship Model~~ | ![image](diagrams/E_R_model.drawio.svg) |
 | :heavy_check_mark: | ~~12/05/2022~~ | ~~Create Relational Model Diagram~~ | ![image](diagrams/Relational_model.drawio.svg) |
+| :hourglass_flowing_sand: | 12/05/2022 - Undefined | Create Oracle Database Server via Docker or Virtual Machine | |
 | :x: | | Read documentation about KeyCloak and install it | |
 | :x: | | Make de Use Cases of the application | |
 ## Diagram of the Entity Relationship Model :bar_chart:
