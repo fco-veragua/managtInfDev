@@ -5,6 +5,21 @@ Project focused on the creation of a tool for the ***management*** of ***malware
   <img src="img/cyber1.jpg" />
 </p>
 
+## Theme :bulb:
+>Only luck is who can get rid of malware.
+
+Analyzing the appointment and located within a business environment that can have hundreds of devices connected to your network, it is to be expected that a large number of them carry some type of malicious software. The equipment and personnel assigned to this problem they follow a fixed action scheme: identify and treat the affected hardware, freeing it from the infection.
+The objective of the project is to create a tool for the management of devices infected with some type of malware. The idea is that once the assets have been identified,
+can be registered in a centralized system that records them, their authorship and their evolution over time.
+***
+:es:
+>Sólo la suerte es quién puede librarte del malware.
+
+Analizando la cita y situados dentro de un entorno empresarial que puede llegar a contar con cientos de 
+dispositivos conectados a su red, es de esperar que un gran número de los mismos sea portador de algún tipo de software malicioso. Los equipos y el personal destinados
+a esta problemática siguen un esquema de actuación fijo: identificar y tratar el hardware afectado, liberándolo de la infección.
+El objetivo del proyecto, es conformar una herramienta para la gestión de dispositivos infectados con algún tipo de malware. La idea es que una vez identificados los activos,
+puedan ser registrados en un sistema centralizado que deje constancia de los mismos, la autoría de estos y su evolución en el tiempo.
 ## Planning :calendar:
 | :heavy_check_mark: | :x: | :hourglass_flowing_sand: |
 | --- | --- | --- |
