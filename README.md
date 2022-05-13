@@ -33,7 +33,10 @@ puedan ser registrados en un sistema centralizado que deje constancia de los mis
 | :heavy_check_mark: | ~~10/05/2022 - 12/05/2022~~ | ~~Create the necessary database schemas~~ | [ERModel](diagrams/E_R_model.drawio.svg):open_file_folder: [RelationalModel](diagrams/Relational_model.drawio.svg):open_file_folder: |
 | :heavy_check_mark: | ~~12/05/2022~~ | ~~Create Diagram of the Entity Relationship Model~~ | ![image](diagrams/E_R_model.drawio.svg) |
 | :heavy_check_mark: | ~~12/05/2022~~ | ~~Create Relational Model Diagram~~ | ![image](diagrams/Relational_model.drawio.svg) |
-| :hourglass_flowing_sand: | 12/05/2022 - Undefined | Create Oracle Database Server via Docker or Virtual Machine | |
+| :heavy_check_mark: | ~~12/05/2022 - 13/05/2022~~ | ~~Create Oracle Database Server via Docker or Virtual Machine~~ | |
+| :hourglass_flowing_sand: | 13/05/2022 - Undefined | Create Tables and sample data in the database | |
+| :hourglass_flowing_sand: | 13/05/2022 - Undefined | Define the microservices to create from the created database models | |
+| :hourglass_flowing_sand: | 13/05/2022 - Undefined | Creation of Microservices | |
 | :x: | | Read documentation about KeyCloak and install it | |
 | :x: | | Make de Use Cases of the application | |
 ## Diagram of the Entity Relationship Model :bar_chart:
