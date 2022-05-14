@@ -47,9 +47,8 @@ puedan ser registrados en un sistema centralizado que deje constancia de los mis
 >For database implementation, I am using Oracle Database
 
 <p>
-Next, you have all the necessary code for the creation of the database tables (Relationships, data types, restric-
 <img src="https://github.com/fco-veragua/yacimientoArqueol-gico/blob/main/images/sql.png" width="200" height="200" alt="sql" align="right" />
-tions for the establishment of foreign keys...) Valid statements are also attached for the insertion of certain test data, which fill the data model with meaning and serve as examples during the data query from the microservices.
+Next, you have all the necessary code for the creation of the database tables (Relationships, data types, restrictions for the establishment of foreign keys...) Valid statements are also attached for the insertion of certain test data, which fill the data model with meaning and serve as examples during the data query from the microservices.
 </p>
 
 >At the end of this entire block, you can find a direct link to the original script from which all the instructions are based.
@@ -58,9 +57,8 @@ tions for the establishment of foreign keys...) Valid statements are also attach
 >Para la implementación de la base de datos, estoy usando Oracle Database
 
 <p>
-A continuación, tienes todo el código necesario para la creación de las tablas de la base de datos
 <img src="https://github.com/fco-veragua/yacimientoArqueol-gico/blob/main/images/sql.png" width="200" height="200" alt="sql" align="left" />
-(Relaciones, tipos de datos, restricciones para el establecimiento de claves foráneas...) También se adjuntan sentencias válidas destinadas a la inserción de determinados datos de prueba, que colmen de sentido al modelo de datos y, sirvan de ejemplos durante la consulta de datos desde los microservicios.
+A continuación, tienes todo el código necesario para la creación de las tablas de la base de datos (Relaciones, tipos de datos, restricciones para el establecimiento de claves foráneas...) También se adjuntan sentencias válidas destinadas a la inserción de determinados datos de prueba, que colmen de sentido al modelo de datos y, sirvan de ejemplos durante la consulta de datos desde los microservicios.
 </p>
 
 >Al final de todo este bloque, podrás encontrar un enlace directo al script original del que parten todas las instrucciones.
