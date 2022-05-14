@@ -64,7 +64,7 @@ A continuación, tienes todo el código necesario para la creación de las tabla
 >Al final de todo este bloque, podrás encontrar un enlace directo al script original del que parten todas las instrucciones.
 
 ***
-### :large_blue_circle: Script for Tables :page_facing_up:
+#### :large_blue_circle: Script for Tables :page_facing_up:
 ~~~
 ------------------------------------------------------
 -- managtInfDev - TABLES --
@@ -159,7 +159,7 @@ CREATE TABLE Malware_Device (
     CONSTRAINT FK2_Malware_Device FOREIGN KEY (serialNumber) REFERENCES DEVICE (serialNumber) ON DELETE CASCADE
 );
 ~~~
-### :large_blue_circle: Insert Test Data :page_facing_up:
+#### :large_blue_circle: Insert Test Data :page_facing_up:
 ~~~
 ------------------------------------------------------
 -- DATA INSERTION --
