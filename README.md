@@ -222,3 +222,5 @@ INSERT INTO Malware_Device (malwID, serialNumber) VALUES (444, 00440044);
 INSERT INTO Malware_Device (malwID, serialNumber) VALUES (555, 00330033);
 INSERT INTO Malware_Device (malwID, serialNumber) VALUES (666, 00660066);
 ~~~
+:link:
+>From [here](dbResources/managtInfDev.sql) you can access the original script :scroll:
